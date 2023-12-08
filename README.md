@@ -4,7 +4,7 @@
 <b>Hi, My name is Mohamed. I am a data analyst .<b>
 
 <p></p>
-<div align="center"> <h1 align="center"> :😊:	 DATA ANALYSIS TOOLS :👍: </h1> </div>
+<div align="center"> <h1 align="center"> :👍:	 DATA ANALYSIS TOOLS :👍: </h1> </div>
 
 <b>I have experience using these data analysis tools.<b>
 <p align="center">
@@ -17,13 +17,11 @@
 
 </p>
 
-<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+<div align="center"> <h1 align="center"> :👌: DATA VISUALIZATION :👌:	</h1> </div>
 
 <b>I have also experience using these data visualization tools.<b>
 
 <p align="center">
-<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/2022-04/TableauLogo_RGB.png" alt="Tableau" height="60"/> </a>
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
