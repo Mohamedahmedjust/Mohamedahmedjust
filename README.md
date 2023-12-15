@@ -30,7 +30,7 @@
 <b>Lets connect</b>
 <p align="center">
 
-<a href="linkedin.com/in/mohamed-ahmed2023">
+<a href="www.linkedin.com/in/mohamed-ahmed2023">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
