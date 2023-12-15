@@ -1,7 +1,7 @@
 
 
 <div align="center"> <h1 align="center"> Hi 👋 There! I am a Data Analyst  </h1> </div>
-<b>Hi, My name is Mohamed. I am a junior data analyst. I have a degree in BSc (Hons) Computing. I have a dacade of experience in IT helpdesk support, administration and Business development. I also have worked in sales and customer support service. <b>
+<b>Hi, My name is Mohamed. I am a junior data analyst. I have a degree in BSc (Hons) Computing. I have experience in Data analysis, IT helpdesk support, administration and Business development. I also have worked in sales and customer support service. <b>
 
 <p></p>
 <div align="center"> <h1 align="center"> :👍:	 DATA ANALYSIS TOOLS :👍: </h1> </div>
