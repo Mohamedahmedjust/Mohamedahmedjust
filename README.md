@@ -26,13 +26,7 @@
 <a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
 </p>
 
-<div align="center"> <h1 align="center"> 👍 SOCIAL👍 </h1> </div>
-<b>Lets connect</b>
-<p align="center">
 
-<a href="www.linkedin.com/in/mohamed-ahmed2023">
-  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 
 </p>
